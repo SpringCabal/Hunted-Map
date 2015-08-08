@@ -140,7 +140,7 @@ local mapinfo = {
 		--// dynsun
 		sunStartAngle = 0.0,
 		sunOrbitTime  = 1440.0,
-		sundir        = { 0, 0.50, -1 },
+		sundir        = { 0, 0.50, 1 },
 
 		--// unit & ground lighting
          groundambientcolor            = { 0.8, 0.8, 0.85 },
