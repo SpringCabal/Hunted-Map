@@ -85,6 +85,6 @@ function widget:Update(dt)
 	
 	--if you want to use windspeed as a volume modifier
 	--PlaySound(params.name, windSpeed) 
-	PlaySound(params.name, 0.10)
+	PlaySound(params.name, 0.02)
 end
 
